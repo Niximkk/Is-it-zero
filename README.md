@@ -5,3 +5,5 @@ Sometimes you don't know if a number is zero or not, so I made this code to help
 `npm install`
 
 `node .`
+
+![alt text](https://github.com/niximkk/is-it-zero/blob/main/Images/nah.png?raw=true)

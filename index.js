@@ -63,6 +63,6 @@ function guywhochecksthenumber(){
         console.log("Nah, it is not.\n")
 
         // teaches you what zero is
-        open('https://www.techtarget.com/whatis/definition/zero-0');
+        open('https://www.merriam-webster.com/dictionary/zero');
     }
 }

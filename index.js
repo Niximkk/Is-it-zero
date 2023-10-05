@@ -9,7 +9,7 @@ var thatguy = readline.createInterface({
 // then this
 number = 69;
 
-// then we call this guy who says  his thing
+// then we call this guy who says his thing
 guywhosayshisthing();
 
 function guywhosayshisthing(){
